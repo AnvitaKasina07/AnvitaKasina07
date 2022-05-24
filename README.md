@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Anvita Kaina</h1>
 <h3 align="center">A passionate Business Analyst from India</h3>
 
-(img align="right" alt="Coding" width="400" src=" https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/01d3300ea655f716d67efa6665113005.gif "
+<img align="right" alt="Coding" width="400" src=" https://cdn.dribbble.com/users/2514124/screenshots/5439070/media/01d3300ea655f716d67efa6665113005.gif ">
 
 - 💬 Ask me about **Tableau**
 
